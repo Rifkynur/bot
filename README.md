@@ -9,6 +9,9 @@ Currently, two official plugins are available:
 
 cara install
 git clone https://github.com/Rifkynur/bot.git
+
 cd bot
+
 npm i
+
 npm run dev
